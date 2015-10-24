@@ -27,76 +27,76 @@ fest_language(' ').
 
 
 % ROUTE CALCULATED
-string('route_is.ogg', 'The trip is ').
-string('route_calculate.ogg', 'Route recalculated').
-string('distance.ogg', 'distance ').
+string('route_is.ogg', 'Chuyến đi dài  ').
+string('route_calculate.ogg', 'Đã tính lại tuyến đường').
+string('distance.ogg', 'khoảng cách ').
 
 % LEFT/RIGHT
-string('prepare.ogg', 'Prepare to ').
-string('after.ogg', 'after ').
+string('prepare.ogg', 'chuẩn bị ').
+string('after.ogg', 'sau ').
 
-string('left.ogg', 'turn left ').
-string('left_sh.ogg', 'turn sharply left ').
-string('left_sl.ogg', 'turn slightly left ').
-string('right.ogg', 'turn right ').
-string('right_sh.ogg', 'turn sharply right ').
-string('right_sl.ogg', 'turn slightly right ').
-string('left_keep.ogg', 'keep left').
-string('right_keep.ogg', 'keep right').
+string('left.ogg', 'rẽ trái ').
+string('left_sh.ogg', 'quay ngoặt sang trái ').
+string('left_sl.ogg', 'hơi rẽ sang trái ').
+string('right.ogg', 'rẽ phải ').
+string('right_sh.ogg', 'quay ngoặt sang phải ').
+string('right_sl.ogg', 'hơi rẽ sang phải ').
+string('left_keep.ogg', 'tiếp tục sang trái').
+string('right_keep.ogg', 'tiếp tục sang phải').
 % if needed, "left/right_bear.ogg" can be defined here also. "... (then) (bear_left/right)" is used in pre-announcements to indicate the direction of a successive turn AFTER the next turn.
 
 % U-TURNS
-string('make_uturn.ogg', 'Make a U turn ').
-string('make_uturn_wp.ogg', 'When possible, please make a U turn ').
+string('make_uturn.ogg', 'Rẽ hình chữ U ').
+string('make_uturn_wp.ogg', 'Khi có thể, hãy rẽ hình chữ U ').
 
 % ROUNDABOUTS
-string('prepare_roundabout.ogg', 'Prepare to enter a roundabout ').
-string('roundabout.ogg', 'enter the roundabout, ').
-string('then.ogg', ', then ').
-string('and.ogg', 'and ').
-string('take.ogg', 'take the ').
-string('exit.ogg', 'exit ').
+string('prepare_roundabout.ogg', 'Chuẩn bị vào vòng xoay ').
+string('roundabout.ogg', 'vào vòng xoay, ').
+string('then.ogg', ', rồi ').
+string('and.ogg', 'và ').
+string('take.ogg', 'đến đường ').
+string('exit.ogg', 'thoát ').
 
-string('1st.ogg', 'first ').
-string('2nd.ogg', 'second ').
-string('3rd.ogg', 'third ').
-string('4th.ogg', 'fourth ').
-string('5th.ogg', 'fifth ').
-string('6th.ogg', 'sixth ').
-string('7th.ogg', 'seventh ').
-string('8th.ogg', 'eighth ').
-string('9th.ogg', 'nineth ').
-string('10th.ogg', 'tenth ').
-string('11th.ogg', 'eleventh ').
-string('12th.ogg', 'twelfth ').
-string('13th.ogg', 'thirteenth ').
-string('14th.ogg', 'fourteenth ').
-string('15th.ogg', 'fifteenth ').
-string('16th.ogg', 'sixteenth ').
-string('17th.ogg', 'seventeenth ').
+string('1st.ogg', 'thứ nhất ').
+string('2nd.ogg', 'thứ hai ').
+string('3rd.ogg', 'thứ ba ').
+string('4th.ogg', 'thứ tư ').
+string('5th.ogg', 'thứ năm ').
+string('6th.ogg', 'thứ sáu ').
+string('7th.ogg', 'thứ bảy ').
+string('8th.ogg', 'thứ tám ').
+string('9th.ogg', 'thứ chín ').
+string('10th.ogg', 'thứ mười ').
+string('11th.ogg', 'thứ mười một ').
+string('12th.ogg', 'thứ mười hai ').
+string('13th.ogg', 'thứ mười ba ').
+string('14th.ogg', 'thứ mười bốn ').
+string('15th.ogg', 'thứ mười lăm ').
+string('16th.ogg', 'thứ mười sáu ').
+string('17th.ogg', 'thứ mười bảy ').
 
 % STRAIGHT/FOLLOW
-string('go_ahead.ogg', 'Go straight ahead ').
-string('follow.ogg', 'Follow the course of the road for').
+string('go_ahead.ogg', 'Đi thẳng ').
+string('follow.ogg', 'Đi dọc theo con đường trong').
 
 % ARRIVE
-string('and_arrive_destination.ogg', 'and arrive at your destination ').
-string('reached_destination.ogg','you have reached your destination ').
-string('and_arrive_intermediate.ogg', 'and arrive at your waypoint ').
-string('reached_intermediate.ogg', 'you have reached your waypoint ').
-string('and_arrive_waypoint.ogg', 'and arrive at your GPX waypoint ').
-string('and_arrive_favorite.ogg', 'and arrive at your favorite ').
-string('and_arrive_poi_waypoint.ogg', 'and arrive at POI ').
-string('reached_waypoint.ogg', 'you have reached your GPX waypoint ').
-string('reached_favorite.ogg', 'you have reached your favorite waypoint ').
-string('reached_poi.ogg', 'you have reached POI ').
+string('and_arrive_destination.ogg', 'sắp đến đích ').
+string('reached_destination.ogg','bạn đã đến đích ').
+string('and_arrive_intermediate.ogg', 'sắp đến điểm dừng chân ').
+string('reached_intermediate.ogg', 'bạn đã đến điểm dừng chân ').
+string('and_arrive_waypoint.ogg', 'sắp đến điểm dừng chân GPX ').
+string('and_arrive_favorite.ogg', 'sắp đến điểm yêu thích ').
+string('and_arrive_poi_waypoint.ogg', 'sắp đến địa điểm trên đường').
+string('reached_waypoint.ogg', 'bạn đã đến điểm dừng chân GPX ').
+string('reached_favorite.ogg', 'bạn đã đến điểm yêu thích ').
+string('reached_poi.ogg', 'bạn đã đến địa điểm trên đường').
 
 % OTHER PROMPTS
-string('attention.ogg', 'attention, ').
-string('location_lost.ogg', 'g p s signal lost ').
-string('location_recovered.ogg', 'g p s signal restored ').
-string('off_route.ogg', 'you have been off the route for').
-string('exceed_limit.ogg', 'you are exceeding the speed limit ').
+string('attention.ogg', 'chú ý, ').
+string('location_lost.ogg', 'mất tính hiệu g p s ').
+string('location_recovered.ogg', 'đã khôi phục tính hiệu g p s').
+string('off_route.ogg', 'bạn đã đi lệch tuyến đường trong').
+string('exceed_limit.ogg', 'bạn đang vượt quá giới hạn tốc độ ').
 
 % STREET NAME GRAMMAR
 string('onto.ogg', 'onto ').
@@ -105,26 +105,26 @@ string('to.ogg', 'to ').
 string('to2.ogg', 'towards ').
 
 % DISTANCE UNIT SUPPORT
-string('meters.ogg', 'meters ').
-string('around_1_kilometer.ogg', 'about 1 kilometer ').
-string('around.ogg', 'about ').
-string('kilometers.ogg', 'kilometers ').
+string('meters.ogg', 'mét ').
+string('around_1_kilometer.ogg', 'khoảng 1 ki lô mét ').
+string('around.ogg', 'khoảng ').
+string('kilometers.ogg', 'ki lô mét ').
 
 string('feet.ogg', 'feet ').
-string('1_tenth_of_a_mile.ogg', 'one tenth of a mile').
-string('tenths_of_a_mile.ogg', 'tenths of a mile').
-string('around_1_mile.ogg', 'about 1 mile ').
-string('miles.ogg', 'miles ').
+string('1_tenth_of_a_mile.ogg', 'một phần mười dặm').
+string('tenths_of_a_mile.ogg', 'phần mười của một dặm').
+string('around_1_mile.ogg', 'khoảng một dặm ').
+string('miles.ogg', 'dặm ').
 
 string('yards.ogg', 'yards ').
 
 % TIME SUPPORT
-string('time.ogg', 'time is ').
-string('1_hour.ogg', 'one hour ').
-string('hours.ogg', 'hours ').
-string('less_a_minute.ogg', 'less than a minute ').
-string('1_minute.ogg', 'one minute ').
-string('minutes.ogg', 'minutes ').
+string('time.ogg', 'thởi gian là ').
+string('1_hour.ogg', 'một giờ ').
+string('hours.ogg', 'giờ ').
+string('less_a_minute.ogg', 'chưa đầy một phút ').
+string('1_minute.ogg', 'một phút ').
+string('minutes.ogg', 'phút ').
 
 
 %% COMMAND BUILDING / WORD ORDER
