@@ -94,10 +94,10 @@ string('off_route.ogg', 'bạn đã đi lệch tuyến đường trong').
 string('exceed_limit.ogg', 'bạn đang vượt quá giới hạn tốc độ ').
 
 % STREET NAME GRAMMAR
-string('onto.ogg', 'onto ').
-string('on.ogg', 'on ').
-string('to.ogg', 'to ').
-string('to2.ogg', 'towards ').
+string('onto.ogg', 'lên ').
+string('on.ogg', 'trên ').
+string('to.ogg', 'đến ').
+string('to2.ogg', 'về phía ').
 
 % DISTANCE UNIT SUPPORT
 string('meters.ogg', 'mét ').
